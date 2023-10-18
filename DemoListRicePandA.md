@@ -49,7 +49,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Water tank and dye [POP]
 - Spherical lens shapes for light rays [POP, HRZ]
 - Spherical lenses [HRZ]
-- Spherical mirrors [HRZ] 
+- Spherical mirrors (concave only?) [HRZ] 
 - Parabolic mirror “mirage” real image [HRZ, POP]
 - Large parabolic mirrors and heater [HRZ]
 - Object-Image lens track and lenses [POP]
