@@ -7,7 +7,8 @@
 - Bernoulli effect tube of varying radii [HRZ]
 
 ## Thermo
-- Analog thermometers, beakers [HRZ]- Digital thermometer [DA]
+- Analog thermometers, beakers [HRZ]
+- Digital thermometer [DA]
 - Stirling heat engine [POP]
 - 3D P-V-T state equation model [HRZ]
 - Radiometer [HRZ]
@@ -55,7 +56,7 @@
 ## EM Interference/Diffraction
 - Large red laser [HRZ]
 - Slits and diffraction gratings [HRZ]
-- Microscope slides [HRZ]
+- Microscope slides (Newton's rings) [HRZ]
 - Bubble wands (thin films) [DA]
 
 
