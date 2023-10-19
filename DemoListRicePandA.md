@@ -23,7 +23,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 ## Mechanical Waves
 - Torsion wave machine [HRZ]
 - Motorized driven standing string waves [HRZ]
-- 2D standing waves, speaker-driven plates with salt [IMG1](https://github.com/acostad/Demos/blob/main/Figs/2DWavesGenerator.JPEG) [IMG2](https://github.com/acostad/Demos/blob/main/Figs/2DWaveTable.JPEG)) [HRZ]
+- 2D standing waves, speaker-driven plates with salt [IMG1](https://github.com/acostad/Demos/blob/main/Figs/2DWavesGenerator.JPEG) [IMG2](https://github.com/acostad/Demos/blob/main/Figs/2DWaveTable.JPEG) [HRZ]
 
 ## Sound
 - Tuning fork chimes [HRZ]
