@@ -47,7 +47,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - “Light rays” multi-laser with fanned light blades [POP]
 - 3-laser bundle [HRZ] (not as nice as the fanned blades)
 - Water tank and dye [POP]
-- Spherical lens shapes for light rays [IMG1](https://github.com/acostad/Demos/blob/main/Figs/SphericalLensShapes.JPEG), [IMG2](https://github.com/acostad/Demos/blob/main/Figs/SphericalLensShapesPOP.JPEG) [POP, HRZ]
+- Spherical lens shapes for light rays [IMG1](https://github.com/acostad/acostad/Demos/blob/main/Figs/SphericalLensShapes.JPEG), [IMG2](https://github.com/acostad/acostad/Demos/blob/main/Figs/SphericalLensShapesPOP.JPEG) [POP, HRZ]
 - Spherical lenses [HRZ]
 - Planar mirror, Spherical mirrors (concave only?) [HRZ] 
 - Parabolic mirror “mirage” real image [HRZ, POP]
