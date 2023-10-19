@@ -42,7 +42,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Prism [HRZ]
 
 ## Optics
-- Large red laser [HRZ]
+- Large red laser [IMG](https://github.com/acostad/Demos/blob/main/Figs/RedLaser.jpg) [HRZ]
 - Very bright green laser (need eye protection) [POP]
 - “Light rays” multi-laser with fanned light blades [POP]
 - 3-laser bundle [HRZ] (not as nice as the fanned blades)
