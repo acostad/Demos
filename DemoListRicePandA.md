@@ -36,7 +36,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Intensity (in dB), spectrum analyzer, tone generator [try Physics Toolbox app]
 
 ## EM Waves and Light
-- Polaroids [HRZ]
+- Polaroids [IMG](https://github.com/acostad/Demos/blob/main/Figs/Polaroids.jpg) [HRZ]
 - 3D polarized glasses [DA]
 - Calcite crystal (birefringence) [IMG](https://github.com/acostad/Demos/blob/main/Figs/Calcite.JPEG) [HRZ]
 - Prism [HRZ]
@@ -57,7 +57,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Glass pane (for reflection) [DA]
 
 ## EM Interference/Diffraction
-- Large red laser [HRZ]
+- Large red laser [IMG](https://github.com/acostad/Demos/blob/main/Figs/RedLaser.jpg)  [HRZ]
 - Slits and diffraction gratings [IMG](https://github.com/acostad/Demos/blob/main/Figs/RotaryDiffractionSlits.JPEG) [HRZ]
 - Microscope slides (Newton's rings) [IMG](https://github.com/acostad/Demos/blob/main/Figs/NewtonsRings.png) [HRZ]
 - Bubble wands (thin films) [DA]
