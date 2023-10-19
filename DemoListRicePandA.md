@@ -59,7 +59,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 ## EM Interference/Diffraction
 - Large red laser [HRZ]
 - Slits and diffraction gratings [IMG](https://github.com/acostad/Demos/blob/main/Figs/RotaryDiffractionSlits.JPEG) [HRZ]
-- Microscope slides (Newton's rings) [HRZ]
+- Microscope slides (Newton's rings) [IMG](https://github.com/acostad/Demos/blob/main/Figs/NewtonsRings.png) [HRZ]
 - Bubble wands (thin films) [DA]
 
 ## Modern Physics
