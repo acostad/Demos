@@ -51,7 +51,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Spherical lenses [HRZ]
 - Planar mirror, Spherical mirrors (concave only?) [HRZ] 
 - Parabolic mirror “mirage” real image [IMG](https://github.com/acostad/Demos/blob/main/Figs/Mirage.jpg) [HRZ, POP]
-- Large parabolic mirrors and heater [HRZ]
+- Large parabolic mirrors and heater [IMG](https://github.com/acostad/Demos/blob/main/Figs/LargeParabolicMirrors.jpg) [HRZ]
 - Object-Image lens track and lenses [IMG](https://github.com/acostad/Demos/blob/main/Figs/LensTrackPOP.JPEG) [POP]
 - Water light “pipe” (bottle with hole) [IMG](https://github.com/acostad/Demos/blob/main/Figs/WaterLightPipe.PNG) [DA] 
 - Glass pane (for reflection) [DA]
