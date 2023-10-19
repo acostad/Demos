@@ -53,7 +53,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Parabolic mirror “mirage” real image [HRZ, POP]
 - Large parabolic mirrors and heater [HRZ]
 - Object-Image lens track and lenses [POP]
-- Water light “pipe” (bottle with hole) [DA]
+- Water light “pipe” (bottle with hole) [DA] [Img](https://github.com/acostad/Demos/blob/main/Figs/WaterLightPipe.PNG)
 - Glass pane (for reflection) [DA]
 
 ## EM Interference/Diffraction
