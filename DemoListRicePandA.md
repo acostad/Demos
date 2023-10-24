@@ -1,6 +1,18 @@
 # Rice Physics and Astronomy Demo List
 Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in GRBW112, [DA] = Darin Acosta's office
 
+## E&M
+- charging rods and silk and wool cloths [HRZ]
+- bar magnets [HRZ]
+- Wimshurst device [HRZ]
+- Electroscope [HRZ]
+- Van de Graff machine [HRZ]
+- Iron filings, compasses [HRZ]
+- Wire loop with many turns, wire solenoid (& overhead projector) [HRZ]
+- Power supply for wire loops [HRZ]
+- Crookes Tube [IMG](https://github.com/acostad/Demos/blob/main/Figs/CrookesTube.JPEG) [HRZ]
+- "Jumping ring" electromagnet and metal rings [HRZ] 
+
 ## Fluids
 - Bottle with multiple holes (hydrostatic pressure) [DA]
 - Balloon in sealable flask [IMG](https://github.com/acostad/Demos/blob/main/Figs/FlaskBalloon.JPEG) [HRZ]
