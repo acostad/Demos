@@ -19,6 +19,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 
 ## Fluids
 - Bottle with multiple holes (hydrostatic pressure) [DA]
+   - (Also can demonstrate equivalence principle when dropped)
 - Balloon in sealable flask [IMG](https://github.com/acostad/Demos/blob/main/Figs/FlaskBalloon.JPEG) [HRZ]
 - Bernoulli effect (ping pong ball in funnel, with air from reverse "vacuum") [IMG](https://github.com/acostad/Demos/blob/main/Figs/BernoulliVacuum.JPEG) [HRZ]
 - Bernoulli effect tube of varying radii [IMG](https://github.com/acostad/Demos/blob/main/Figs/BernoulliTube.JPEG) [HRZ]
