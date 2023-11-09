@@ -79,7 +79,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Slits and diffraction gratings [IMG](https://github.com/acostad/Demos/blob/main/Figs/RotaryDiffractionSlits.JPEG) [HRZ]
 - Microscope slides (Newton's rings) [IMG](https://github.com/acostad/Demos/blob/main/Figs/NewtonsRings.png) [HRZ]
 - Bubble wands (thin films) [DA]
-- Diffraction glasses + mercury lamp [HRZ]
+- Mercury lamp, power supply, and diffraction grating [IMG](https://github.com/acostad/Demos/blob/main/Figs/MercuryLampDiffractionGrating.JPEG) [HRZ]
 
 ## Modern Physics
 - Crookes Tube [IMG](https://github.com/acostad/Demos/blob/main/Figs/CrookesTube.JPEG) [HRZ] 
