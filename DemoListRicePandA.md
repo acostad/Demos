@@ -18,8 +18,8 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Eddy currents [IMG](https://github.com/acostad/Demos/blob/main/Figs/EddyCurrents.jpg) [HRZ]
 
 ## Circuits
-- Incandescent lights in parallel and series [HRZ]
-- "Pickle Light" (2 nails in a board and a power cord) [DA]
+- Incandescent lights in parallel and series [IMG](https://github.com/acostad/Demos/blob/main/Figs/LightsParallelSeries.jpg) [HRZ]
+- "Pickle Light" (2 nails in a board and a power cord) (https://github.com/acostad/Demos/blob/main/Figs/PickleLight.jpg) [DA]
 
 ## Fluids
 - Bottle with multiple holes (hydrostatic pressure) [DA]
