@@ -7,6 +7,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Wimshurst device [HRZ]
 - Electroscope [IMG](https://github.com/acostad/Demos/blob/main/Figs/Electroscope.jpg) [HRZ]
 - Van de Graff machine [IMG](https://github.com/acostad/Demos/blob/main/Figs/VanDeGraff.jpg) [HRZ]
+- "Pickle Light" (2 nails in a board and a power cord) [DA]
 - Iron filings, compasses [HRZ]
 - Wire loop with many turns  (& overhead projector) [HRZ]
 - Wire solenoid (& overhead projector) [IMG](https://github.com/acostad/Demos/blob/main/Figs/Solenoid.jpg)  [HRZ]
