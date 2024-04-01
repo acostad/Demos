@@ -92,4 +92,5 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Cloud chamber [IMG](https://github.com/acostad/Demos/blob/main/Figs/CloudChamber.JPEG) [HRZ]
 - Photoelectric effect (electroscope + mercury lamp) [HRZ]
 - Mercury lamp, power supply, and diffraction grating [IMG](https://github.com/acostad/Demos/blob/main/Figs/MercuryLampDiffractionGrating.JPEG) [HRZ]
+- Geiger counter and weak sources [HRZ]
 
