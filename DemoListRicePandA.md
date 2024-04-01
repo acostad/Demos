@@ -12,7 +12,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Wire solenoid (& overhead projector) [IMG](https://github.com/acostad/Demos/blob/main/Figs/Solenoid.jpg)  [HRZ]
 - Power supply for wire loops [IMG](https://github.com/acostad/Demos/blob/main/Figs/PowerSupplyCurrentLoops.jpg) [HRZ]
 - Crookes Tube [IMG](https://github.com/acostad/Demos/blob/main/Figs/CrookesTube.JPEG) [HRZ]
-- Jumping wire (between magnet poles) [IMG](https://github.com/acostad/Demos/blob/main/Figs/JumpingWire.jpg) [HRZ]
+- "Jumping wire" (between magnet poles) [IMG](https://github.com/acostad/Demos/blob/main/Figs/JumpingWire.jpg) [HRZ]
 - Force between 2 wires (using laser) [IMG](https://github.com/acostad/Demos/blob/main/Figs/Force2Wires.jpg) [HRZ]
 - "Jumping ring" electromagnet and metal rings and light [IMG](https://github.com/acostad/Demos/blob/main/Figs/JumpingRing.jpg)  [HRZ]
 - Hand crank generator [IMG](https://github.com/acostad/Demos/blob/main/Figs/HandGenerator.jpg) [HRZ]
