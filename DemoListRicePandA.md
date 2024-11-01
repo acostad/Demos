@@ -51,7 +51,8 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 ## Sound
 - Tuning fork chimes [HRZ]
 - Large wooden musical pipes [IMG](https://github.com/acostad/Demos/blob/main/Figs/WoodTubes3.jpg) [HRZ]
-- Rubens tube [HRZ] (works?)
+- Big carboard pipe, bunsen burner, and propane [HRZ]
+- Rubens tube [HRZ] (speaker seems broken...)
 - Function generator and speaker [HRZ]
 - Slam tubes [POP]
 - Empty bottle (closed or open) [DA]
