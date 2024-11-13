@@ -80,7 +80,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Object-Image lens track and lenses [IMG](https://github.com/acostad/Demos/blob/main/Figs/LensTrackPOP.JPEG) [POP]
 - Water light “pipe” (bottle with hole) [IMG](https://github.com/acostad/Demos/blob/main/Figs/WaterLightPipe.PNG) [DA] 
 - Glass pane (for reflection) [DA]
-- Michelson interferometer [HRZ, see Stan Dodds] (note: remove lens and line up laser dots first, then put lens back on)
+- Michelson interferometer [IMG](https://github.com/acostad/Demos/blob/main/Figs/InterferometerSetup2.JPEG) [HRZ, see Stan Dodds] (note: remove lens and line up laser dots first, then put lens back on)
 
 ## EM Interference/Diffraction
 - Large red laser [IMG](https://github.com/acostad/Demos/blob/main/Figs/RedLaser.jpg)  [HRZ]
