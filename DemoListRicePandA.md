@@ -64,6 +64,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - 3D polarized glasses [DA]
 - Calcite crystal (birefringence) [IMG](https://github.com/acostad/Demos/blob/main/Figs/Calcite.JPEG) [HRZ]
 - Prism [HRZ]
+- Bright halogen spotlight [IMG](https://github.com/acostad/Demos/blob/main/Figs/Spotlight.JPEG) [HRZ]
 
 ## Optics
 - Large red laser [IMG](https://github.com/acostad/Demos/blob/main/Figs/RedLaser.jpg) [HRZ]
