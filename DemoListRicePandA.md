@@ -81,7 +81,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Object-Image lens track and lenses [IMG](https://github.com/acostad/Demos/blob/main/Figs/LensTrackPOP.JPEG) [POP]
 - Water light “pipe” (bottle with hole) [IMG](https://github.com/acostad/Demos/blob/main/Figs/WaterLightPipe.PNG) [DA] 
 - Glass pane (for reflection) [DA]
-- Michelson interferometer [IMG](https://github.com/acostad/Demos/blob/main/Figs/InterferometerSetup2.JPEG) [HRZ, see Stan Dodds] (note: remove lens and line up laser dots first, then put lens back on)
+
 
 ## EM Interference/Diffraction
 - Large red laser [IMG](https://github.com/acostad/Demos/blob/main/Figs/RedLaser.jpg)  [HRZ]
@@ -89,6 +89,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Microscope slides (Newton's rings) [IMG](https://github.com/acostad/Demos/blob/main/Figs/NewtonsRings.png) [HRZ]
 - Bubble wands (thin films) [DA]
 - Mercury lamp, power supply, and diffraction grating [IMG](https://github.com/acostad/Demos/blob/main/Figs/MercuryLampDiffractionGrating.JPEG) [HRZ]
+- Michelson interferometer [IMG](https://github.com/acostad/Demos/blob/main/Figs/InterferometerSetup2.JPEG) [HRZ, see Stan Dodds] (note: remove lens and line up laser dots first, then put lens back on)
 
 ## Modern Physics
 - Crookes Tube [IMG](https://github.com/acostad/Demos/blob/main/Figs/CrookesTube.JPEG) [HRZ] 
