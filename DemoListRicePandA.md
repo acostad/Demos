@@ -17,6 +17,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - "Jumping ring" electromagnet and metal rings and light [IMG](https://github.com/acostad/Demos/blob/main/Figs/JumpingRing.jpg)  [HRZ]
 - Hand crank generator [IMG](https://github.com/acostad/Demos/blob/main/Figs/HandGenerator.jpg) [HRZ]
 - Eddy currents [IMG](https://github.com/acostad/Demos/blob/main/Figs/EddyCurrents.jpg) [HRZ]
+- Induction flashlight [DA]
 
 ## Circuits
 - Incandescent lights in parallel and series [IMG](https://github.com/acostad/Demos/blob/main/Figs/LightsParallelSeries.jpg) [HRZ]
