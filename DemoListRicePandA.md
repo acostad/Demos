@@ -59,6 +59,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Empty bottle (closed or open) [DA]
 - Doppler football [POP]
 - Intensity (in dB), spectrum analyzer, tone generator [try Physics Toolbox app]
+- Quicke's tube [HRZ]
 
 ## EM Waves and Light
 - Polaroids [IMG](https://github.com/acostad/Demos/blob/main/Figs/Polaroids.jpg) [HRZ]
