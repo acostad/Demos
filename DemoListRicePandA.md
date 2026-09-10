@@ -23,7 +23,7 @@ Location indicated in brackets: [HRZ] = Herzstein demo room, [POP] = POP room in
 - Incandescent lights in parallel and series [IMG](https://github.com/acostad/Demos/blob/main/Figs/LightsParallelSeries.jpg) [HRZ]
 - "Pickle Light", 2 nails in a board and a power cord [IMG](https://github.com/acostad/Demos/blob/main/Figs/PickleLight.png) [DA]
 - Resistors, capacitors [HRZ]
-- RLC demo with lightbulb, 47uF cap, large coil (~0.2 mH?) [IMG](https://github.com/acostad/Demos/blob/main/Figs/RLCDemo.jpg)
+- RLC demo with lightbulb, 47uF cap, large coil ~0.2 mH? [IMG](https://github.com/acostad/Demos/blob/main/Figs/RLCDemo.jpg) [HRZ]
 
 ## Fluids
 - Bottle with multiple holes (hydrostatic pressure) [DA]
